@@ -73,6 +73,5 @@ Experienced in domain setup, domain transfer, domain management, and handling cl
 
 
 
-To use Refme in your workflow, visit [Refme](https://refme.com) and follow their setup instructions.
 ---
 

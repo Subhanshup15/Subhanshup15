@@ -43,7 +43,16 @@ Experienced in domain setup, domain transfer, domain management, and handling cl
 - Built a mobile-responsive frontend to ensure seamless access across devices.  
 - Created and optimized database schemas for managing reservations, orders, and customer details.  
 - Enhanced user experience by integrating a clean UI with smooth navigation.
+- 
+###  PMC PARBHANI AYURVEDIC MEDICINE COLLEGE 
 
+• Technologies Used: PHP, HTML, CSS, JavaScript, jQuery, MySQL
+• Developed a dynamic and responsive website for an agriculture college with a fully functional admin panel.
+• Implemented modules for managing content such as About Us, Infrastructure, Faculty Details, Admission Info,Gallery, and Contact.
+• Integrated MySQL database for secure data storage and retrieval, enabling real-time updates through the admin panel.
+• Focused on user-friendly UI/UX, responsive design, and efficient content management.
+• Ensured proper form validations, secure admin login, and dynamic content loading using jQuery and AJAX.
+  https://pmcparbhani.com/
 ---
 
 ## 🌐 Socials
